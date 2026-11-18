@@ -23,5 +23,5 @@ proc-macro = true
 
 [dependencies]
 quote = "1"
-syn = "2"
+syn = "3"
 proc-macro2 = { version = "1", default-features = false }
